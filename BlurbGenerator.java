@@ -9,8 +9,6 @@
  * **********************************************
  */
 
-package assignment03PartC;
-
 import java.util.Random;
 
 public class BlurbGenerator {
