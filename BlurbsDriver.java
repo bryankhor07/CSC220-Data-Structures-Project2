@@ -11,8 +11,6 @@
 
 // Please DO NOT CHANGE this file.
 
-package assignment03PartC;
-
 import java.util.Scanner;
 
 public class BlurbsDriver {
